@@ -10,3 +10,4 @@ aSdasdaSdasdaSdasdaSdasdaSdasdadaSdasdadSadsdaSdasdaSdasdaSdasdaSd
 ## tavoli repo halohalo
 - eleg komoly oszinten mondva
 - komolysag a vscodebol
+- comflict proba
