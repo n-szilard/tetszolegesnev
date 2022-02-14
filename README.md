@@ -8,3 +8,4 @@ aSdasdaSdasdaSdasdaSdasdaSdasdadaSdasdadSadsdaSdasdaSdasdaSdasdaSd
 #asd#asd
 # na ezt mar vscodebol irtam
 ## tavoli repo halohalo
+- eleg komoly oszinten mondva
