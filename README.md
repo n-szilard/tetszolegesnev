@@ -12,3 +12,4 @@ aSdasdaSdasdaSdasdaSdasdaSdasdadaSdasdadSadsdaSdasdaSdasdaSdasdaSd
 - komolysag a vscodebol
 - gggggggggggggggggggggggggggggggggggggggggggggggggggggggg
 most mit kell csinalni nemtom battya
+sziahello
