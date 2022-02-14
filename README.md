@@ -11,4 +11,4 @@ aSdasdaSdasdaSdasdaSdasdaSdasdadaSdasdadSadsdaSdasdaSdasdaSdasdaSd
 - eleg komoly oszinten mondva
 - komolysag a vscodebol
 - gggggggggggggggggggggggggggggggggggggggggggggggggggggggg
-most mit kell csinalni
+most mit kell csinalni nemtom battya
