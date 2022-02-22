@@ -13,3 +13,4 @@ aSdasdaSdasdaSdasdaSdasdaSdasdadaSdasdadSadsdaSdasdaSdasdaSdasdaSd
 - gggggggggggggggggggggggggggggggggggggggggggggggggggggggg
 most mit kell csinalni nemtom battya
 sziahello
+# jonapot kivanok Foki Zoltan tanarur hogy tetszik lenni
